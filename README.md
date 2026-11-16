@@ -70,7 +70,7 @@ denaro/
 
 ## Equipe
 
-Bernardo Santoni, Ichiro Sakai, Giulia Colucci, Pedro Vitral e Yasmin Sandes.
+Estudantes de graduação do Bacharelado em Inteligência Artificial da PUC-Rio: Bernardo Santoni, Ichiro Sakai, Giulia Colucci, Pedro Vitral e Yasmin Sandes. 
 
 ## Status
 
